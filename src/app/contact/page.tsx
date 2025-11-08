@@ -1,3 +1,5 @@
+
+
 export default function ContactPage() {
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900 flex items-center justify-center p-4">

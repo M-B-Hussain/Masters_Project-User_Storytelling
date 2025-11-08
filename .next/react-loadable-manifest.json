@@ -5,6 +5,12 @@
       "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
     ]
   },
+  "app\\map\\page.tsx -> @/components/NetworkMap": {
+    "id": "app\\map\\page.tsx -> @/components/NetworkMap",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_NetworkMap_tsx.js"
+    ]
+  },
   "components\\Chart.tsx -> react-chartjs-2": {
     "id": "components\\Chart.tsx -> react-chartjs-2",
     "files": [

@@ -12,6 +12,7 @@ export function Navigation({ className = '' }: NavigationProps) {
 
   const navItems = [
     { name: 'Home', href: '/' },
+    { name: 'Network Map', href: '/map' },
     { name: 'Contact', href: '/contact' },
   ]
 

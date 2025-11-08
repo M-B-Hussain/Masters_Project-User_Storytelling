@@ -8,10 +8,10 @@ module.exports = {
     extend: {
       colors: {
         'db-red': '#F50101',
-        'db-green': '#5DF405',
-        'db-dark-green': '#057D5E',
-        'db-light-green': '#96CF07',
-        'db-gray': '#D9D9D9',
+        'db-green': '#1e5200ff',
+        'db-dark-green': '#003a2bff',
+        'db-light-green': '#97d005ff',
+        'db-gray': '#949090ff',
         'db-dark-gray': '#484545',
       },
       fontFamily: {
